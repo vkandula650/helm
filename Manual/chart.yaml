@@ -1,0 +1,5 @@
+apiversion: v1
+name: nginx
+version: 0.0.1
+description: thisis understand ti nginx
+appVersion: 1.0.0 #app version 
